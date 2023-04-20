@@ -31,7 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verma-divyanshu-git&show_icons=true&locale=en&layout=compact" alt="verma-divyanshu-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verma-divyanshu-git&show_icons=true&locale=en" alt="verma-divyanshu-git" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-divyanshu-git&" alt="verma-divyanshu-git" /></p>
 
