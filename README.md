@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verma-divyanshu-git&label=Profile%20views&color=0e75b6&style=flat" alt="verma-divyanshu-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verma-divyanshu-git" alt="verma-divyanshu-git" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=verma-divyanshu-git](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,Repositories,PullRequest)" alt="verma-divyanshu-git" /></a> </p>
 
 - 📝 I'm currently studying in [Punjab Engineering College, Chandigarh](https://pec.ac.in/)
 
