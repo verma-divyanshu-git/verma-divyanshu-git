@@ -1,11 +1,12 @@
-<h1 align="center">Hi there👋, I'm Divyanshu</h1>
-<h3 align="center">An innovative problem-solver and avid learner</h3>
-
-<p align="right">
-  <a href="https://github.com/verma-divyanshu-git/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=verma-divyanshu-git&title=MultiLanguage,Commits,Repositories,PullRequest" alt="verma-divyanshu-git" />
-  </a>
-</p>
+<div style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
+    <h1 align="center">Hi there👋, I'm Divyanshu</h1>
+    <h3 align="center">An innovative problem-solver and avid learner</h3>
+    <p>
+        <a href="https://github.com/verma-divyanshu-git/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=verma-divyanshu-git&title=MultiLanguage,Commits,Repositories,PullRequest" alt="verma-divyanshu-git" />
+        </a>
+    </p>
+</div>
 
 - 📝 I'm currently studying in [Punjab Engineering College, Chandigarh](https://pec.ac.in/)
 
